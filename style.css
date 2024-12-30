@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #007bff;
+    color: white;
+}
+
+footer {
+    background: #0056b3;
+}
+
+img.rounded-circle {
+    max-width: 150px;
+}
